@@ -1,6 +1,6 @@
 {
-  "name": "MusicBotForDiscord",
-  "description": "Discord Music Bot built with discord.js",
-  "repository": "https://github.com/shahzain345/musicbotfordiscord",
+  "name": "Moderation bot for zen",
+  "description": "Discord Moderation Bot built with discord.js",
+  "repository": "https://github.com/shahzain345/moderationBot",
   "keywords": ["discord", "discordjs", "music", "bot", "NodeJS", "OpenSource"]
 }
